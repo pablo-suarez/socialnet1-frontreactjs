@@ -32,7 +32,7 @@ const Profile = () => {
                     justifyContent:"space-between",
                     width:"108%"
                 }}>
-                    <h6>40 Publicaciones</h6>
+                    <h6>{mypics.length} publicaciones</h6>
                     <h6>40 Seguidores</h6>
                     <h6>40 Siguiendo</h6>
                 </div>
